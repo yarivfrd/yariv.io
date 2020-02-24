@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Converter - Temperature Conversion</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body class="temperature">
+
+    <div class="main-container">
+        <h1 class="app-name">CONVERTER</h1>
+        <h3 class="instructions">TEMPERATURE</h3>
+        <div class="conversion-container">
+            <div class="conversion-inner">
+                <input id="conversion-value" type="number" placeholder="QUANTITY">
+                <select id="unit-select">
+                    <option value="celsius" selected>°C</option>
+                    <option value="fahrenheit" >°F</option>
+                </select>
+            </div>
+            <ul class="results-container">
+                <li class="result-entry"><output>...</output><div class="unit">CELSIUS</div></li>
+                <li class="result-entry"><output>...</output><div class="unit">FAHRENHEIT</div></li>
+            </ul>
+        </div>
+        <nav>
+            <ul>
+                <a href="index.html"><li class="luck">UNITS</li></a>
+                <a href="about.html"><li class="about">ABOUT</li></a>
+            </ul>
+        </nav>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>

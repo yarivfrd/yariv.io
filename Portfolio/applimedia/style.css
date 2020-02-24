@@ -1,0 +1,418 @@
+:root {
+    --view-height: 667px;
+    --view-max-width: 375px;
+    --title-size: 2em;
+    --wrapper-width: 15px;
+    --item-thumb-width: 117px;
+    --item-thumb-height: 178px;
+}
+
+body,
+button {
+    font-family: 'Assistant', sans-serif;
+}
+
+body {
+    direction: rtl;
+    text-align: right;
+    font-size: 16px;
+    margin: 30px 0 0 0;
+}
+
+body.full-screen-tab header>.inner>#app-title {
+    opacity: 0;
+}
+
+/* body.full-screen-tab .main-tab:not(.full-screen-show) {
+    opacity: 0;
+} */
+
+#main-container {
+    text-align: center;
+}
+
+#app-view {
+    position: relative;
+    background-color: white;
+    width: 100%;
+    height: var(--view-height);
+    max-width: var(--view-max-width);
+    box-shadow: 0 25px 70px -10px #bbb;
+    display: inline-block;
+    text-align: right;
+    box-sizing: border-box;
+    padding: 15px var(--wrapper-width) 0;
+    overflow: hidden;
+}
+
+header {
+    position: relative;
+    margin: 0 0 20px 0;
+    transition: opacity 500ms ease;
+}
+
+header>.inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header #app-title {
+    color: #333;
+    font-size: var(--title-size);
+    margin: 0;
+    transition: opacity 500ms ease;
+}
+
+#user-image {
+    position: relative;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+
+.close-tab-btn {
+    position: absolute;
+    left: 0;
+    top: 6px;
+    height: 30px;
+    width: 30px;
+    background: url('svg/close-btn.svg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    z-index: 1;
+    border-radius: 50%;
+    opacity: 1;
+    transition: opacity ease 100ms 0.2s;
+}
+
+.close-tab-btn.hidden {
+    opacity: 0;
+    pointer-events: none;
+}
+
+body.preview .close-tab-btn {
+    background-color: #333;
+}
+
+.main-tab {
+    position: relative;
+    color: white;
+    padding: 18px 16px 22px;
+    margin: 0 0 30px 0;
+    border-radius: 6px;
+    cursor: pointer;
+    box-shadow: 0 20px 10px -13px #bbb;
+    box-sizing: border-box;
+    width: 100%;
+    height: 110px;
+    transition: all ease 500ms;
+    overflow: hidden;
+}
+
+.main-tab:last-of-type {
+    margin-bottom: 0;
+}
+
+.main-tab>.inner>.title {
+    font-size: var(--title-size);
+    margin: 0;
+}
+
+.main-tab>.gallery {
+    margin: 35px 0 0 0;
+}
+
+.main-tab>.gallery>.carousel {
+    display: inline-block;
+    transform: translate(-360px, 0);
+    transition: transform 500ms ease;
+}
+
+.main-tab>.gallery>.carousel:nth-of-type(2) {
+    transition-delay: 200ms;
+}
+
+.main-tab>.gallery>.carousel:first-of-type>.title {
+    margin: 0 0 10px;
+}
+
+.main-tab>.gallery>.carousel>.title {
+    font-size: calc(var(--title-size) / 2);
+    margin: 55px 0 10px;
+    opacity: 1;
+    transition: all ease 500ms;
+}
+
+body.preview .main-tab>.gallery>.carousel>.title {
+    opacity: 0;
+    visibility: hidden;
+}
+
+.main-tab>.gallery>.carousel>.items {
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+}
+
+.main-tab>.gallery>.carousel>.items>a {
+    z-index: 1;
+    position: relative;
+    top: 0;
+    left: 0;
+    transition: all 400ms cubic-bezier(0.65, 0.05, 0.36, 1);
+}
+
+.main-tab>.gallery>.carousel>.items>a.selected {
+    z-index: 2;
+    cursor: default;
+    pointer-events: none;
+    transform: scale(1.2);
+}
+
+.main-tab>.gallery>.carousel>.items>a:first-of-type>.thumb {
+    margin-right: 0;
+}
+
+body.preview .main-tab>.gallery>.carousel>.items>a:not(.selected) {
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+}
+
+.main-tab>.gallery>.carousel>.items>a>.thumb {
+    box-shadow: 0 9px 25px -5px #222;
+    width: var(--item-thumb-width);
+    height: var(--item-thumb-height);
+    margin: 0 15px 0 0;
+}
+
+/* Movies */
+
+.main-tab>.gallery>.carousel>.items>a.fight-club>.thumb {
+    background: url('img/fight-club.jpg');
+}
+
+.main-tab>.gallery>.carousel>.items>a.men-in-black-3>.thumb {
+    background: url('img/men-in-black-3.jpg');
+}
+
+.main-tab>.gallery>.carousel>.items>a.shawshank-redemption>.thumb {
+    background: url('img/shawshank-redemption.jpg');
+}
+
+.main-tab>.gallery>.carousel>.items>a.rouge-one>.thumb {
+    background: url('img/rouge-one.jpg');
+}
+
+.main-tab>.gallery>.carousel>.items>a.suicide-squad>.thumb {
+    background: url('img/suicide-squad.jpg');
+}
+
+.main-tab>.gallery>.carousel>.items>a.john-wick>.thumb {
+    background: url('img/john-wick.jpg');
+}
+
+/* Music */
+
+.main-tab>.gallery>.carousel>.items>a.portugal>.thumb {
+    background: url('img/portugal.jpg');
+}
+
+.main-tab>.gallery>.carousel>.items>a.havana>.thumb {
+    background: url('img/havana.jpg');
+}
+
+.main-tab>.gallery>.carousel>.items>a.thunder>.thumb {
+    background: url('img/thunder.jpg');
+}
+
+.main-tab>.gallery>.carousel>.items>a.perfect>.thumb {
+    background: url('img/perfect.jpg');
+}
+
+.main-tab>.gallery>.carousel>.items>a.malone>.thumb {
+    background: url('img/malone.jpg');
+}
+
+.main-tab>.gallery>.carousel>.items>a.sam-smith>.thumb {
+    background: url('img/sam-smith.jpg');
+}
+
+/* Podcasts */
+
+.main-tab.podcasts>.gallery>.carousel>.items>a>.thumb {
+    background: url('img/notarbut.png');
+}
+
+/* Books */
+
+.main-tab>.gallery>.carousel>.items>a.toldot>.thumb {
+    background: url('img/toldot.jpg');
+}
+
+.main-tab>.gallery>.carousel>.items>a.tomorrow>.thumb {
+    background: url('img/tomorrow.jpg');
+}
+
+.main-tab>.gallery>.carousel>.items>a.knock>.thumb {
+    background: url('img/knock.jpg');
+}
+
+.main-tab>.gallery>.carousel>.items>a.you-dont>.thumb {
+    background: url('img/you-dont.jpg');
+}
+
+.main-tab>.gallery>.carousel>.items>a.design-patterns>.thumb {
+    background: url('img/design-patterns.jpg');
+}
+
+.main-tab>.gallery>.carousel>.items>a.los-logos>.thumb {
+    background: url('img/los-logos.jpg');
+}
+
+.main-tab.expanded {
+    position: relative;
+    top: 0;
+    right: 0;
+    cursor: default;
+    width: calc(100% + var(--wrapper-width)*2);
+    height: var(--view-height);
+    box-shadow: none;
+    border-radius: 0;
+}
+
+.main-tab.expanded>.gallery>.carousel {
+    position: relative;
+    z-index: 1;
+    transform: translate(0, 0);
+    height: auto;
+}
+
+body.preview .main-tab.expanded>.gallery>.carousel {
+    height: 0;
+}
+
+.main-tab.expanded {
+    transform: translate(-30px, -30px);
+}
+
+.main-tab.movies {
+    background: linear-gradient(to right, hsl(209, 78%, 45%) 0%, hsl(210, 100%, 56%) 100%);
+}
+
+.main-tab.music {
+    background: linear-gradient(to right, hsl(120, 60%, 43%) 0%, hsl(120, 61%, 50%) 100%);
+}
+
+.main-tab.podcasts {
+    background: linear-gradient(to right, hsl(264, 76%, 44%) 0%, hsl(265, 100%, 51%) 100%);
+}
+
+.main-tab.books {
+    background: linear-gradient(to left, hsl(40, 100%, 50%) 0%, hsl(51, 100%, 50%) 100%);
+}
+
+.item-preview {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    color: #333;
+    background: white;
+    padding: 0 26px;
+    box-sizing: border-box;
+    text-align: center;
+    opacity: 0;
+    visibility: hidden;
+    transition: all ease 500ms;
+}
+
+.item-preview.active {
+    visibility: visible;
+    opacity: 1;
+}
+
+.item-preview>.back-img,
+.item-preview>.back-img>.inner-img {
+    width: 100%;
+    height: 300px;
+}
+
+.item-preview>.back-img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: black;
+    transform: scale(1.2);
+    transition: all ease 300ms;
+}
+
+body.preview .item-preview>.back-img {
+    transform: scale(1);
+}
+
+.item-preview>.back-img:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -1px;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
+}
+
+.item-preview>.inner,
+.item-preview>.play,
+.item-preview>.description {
+    transition: all 500ms ease;
+}
+
+.item-preview>.inner {
+    transform: translate(0, 640px);
+}
+
+.item-preview.active>.inner {
+    transform: translate(0, 307px);
+}
+
+.item-preview>.inner>.title {
+    line-height: 1;
+    margin: 0;
+    font-size: var(--title-size);
+}
+
+.item-preview>.inner>.release-date {
+    font-weight: 600;
+}
+
+.item-preview>.play {
+    display: inline-block;
+    font-size: 1em;
+    font-weight: 600;
+    text-decoration: none;
+    border: 0;
+    outline: 0;
+    color: white;
+    background-color: #333;
+    border-radius: 30px;
+    padding: 9px 20px 10px;
+    transform: translate(0, 600px);
+    cursor: pointer;
+}
+
+.item-preview.active>.play {
+    transform: translate(0, 325px);
+}
+
+.item-preview>.description {
+    transform: translate(0, 600px);
+    text-align: right;
+}
+
+.item-preview.active>.description {
+    transform: translate(0, 353px);
+}

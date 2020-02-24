@@ -1,0 +1,43 @@
+body {
+    text-align: right;
+}
+
+.main > .row > .col {
+    background-color: whitesmoke;
+    height: 100vh;
+}
+
+.main > .row > .col.left {
+    padding: 0;
+    background-color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    line-height: 1; 
+}
+
+h1.app-name {
+    color: white;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 7vw;
+}
+
+video.background {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    /* min-width: 100%; */
+    /* min-height: 100%; */
+    /* width: auto; */
+    height: 100vh;
+    /* z-index: -100; */
+    transform: translateX(-50%) translateY(-50%);
+    filter: blur(7px);
+    opacity: .7;
+}
+
+
+.main .left {
+
+}

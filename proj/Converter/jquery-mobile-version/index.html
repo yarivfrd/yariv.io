@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Converter</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.5/jquery.mobile.min.css">
+	<link rel="stylesheet" href="main.css">
+	<script src="http://code.jquery.com/jquery-2.2.4.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.5/jquery.mobile.min.js"></script>
+</head>
+
+<body>
+
+	<!-- HOME -->
+	<div data-role="page" id="home">
+
+		<div data-role="header" class="app-name">
+			<h1>CONVERTER</h1>
+		</div>
+
+		<div data-role="content">
+
+			<h3 class="instructions">CONVERT UNITS!</h3>
+
+			<ul class="main-convert-menu">
+				<a href="#distance">
+					<li id="distance-btn">DISTANCE<img id="distance-svg" src="svg/ruler-icon.svg" alt="ruler"></li>
+				</a>
+				<a href="#temperature">
+					<li id="temperature-btn">TEMPERATURE</li>
+				</a>
+				<a href="#time">
+					<li id="time-btn">TIME</li>
+				</a>
+			</ul>
+
+		</div>
+
+		<div data-role="footer">
+			<nav>
+				<ul>
+					<a class="selected" href="#">
+						<li class="luck">UNITS</li>
+					</a>
+					<a href="#about">
+						<li class="about">ABOUT</li>
+					</a>
+				</ul>
+			</nav>
+		</div>
+
+	</div>
+
+	<!-- ABOUT -->
+	<div data-role="page" id="about">
+
+		<div data-role="header" class="app-name">
+			<h1>ABOUT</h1>
+		</div>
+
+		<div data-role="content">
+			<article class="about-me">
+				<p>
+					Hi!<br> I developed this little project while participating in
+					<a href="//lifemichael.com" class="cv-link" target="_blank">Haim Michael's</a> "Front-End Professionals" course.
+				</p>
+				<a href="//Yarivfruend.com" class="cv-link" target="_blank">Yariv Fruend</a>
+				<hr>
+				<ul>
+					<li>
+						Icons by:
+						<br>
+						<a class="cv-link" href="https://www.youtube.com/watch?v=Noi5qm9LkPI" target="_blank">FontAwesome</a>
+						<br>
+						<a class="cv-link" href="//Yarivfruend.com" target="_blank">Me</a>
+					</li>
+				</ul>
+			</article>
+		</div>
+
+		<div data-role="footer">
+			<nav>
+				<ul>
+					<a href="#home">
+						<li class="luck">UNITS</li>
+					</a>
+					<a class="selected" href="#">
+						<li class="about">ABOUT</li>
+					</a>
+				</ul>
+			</nav>
+		</div>
+
+	</div>
+
+	<!-- DISTANCE -->
+	<div data-role="page" id="distance">
+
+		<div data-role="header" class="app-name">
+			<h1>DISTANCE</h1>
+		</div>
+
+		<div data-role="content">
+			<div class="conversion-container">
+				<div class="conversion-inner">
+					<input id="conversion-value" type="number" placeholder="QUANTITY">
+					<select id="unit-select">
+								<option value="kilometers" selected>KM</option>
+								<option value="miles" >MILE</option>
+								<option value="centimeters">CM</option>
+								<option value="inches">INCH</option>
+						</select>
+				</div>
+				<ul class="results-container">
+					<li class="result-entry">
+						<output>...</output>
+						<div class="unit">KILOMETERS</div>
+					</li>
+					<li class="result-entry">
+						<output>...</output>
+						<div class="unit">MILES</div>
+					</li>
+					<li class="result-entry">
+						<output>...</output>
+						<div class="unit">CENTIMETERS</div>
+					</li>
+					<li class="result-entry">
+						<output>...</output>
+						<div class="unit">INCHES</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+
+		<div data-role="footer">
+			<nav>
+				<ul>
+					<a href="#home">
+						<li class="luck">UNITS</li>
+					</a>
+					<a href="#about">
+						<li class="about">ABOUT</li>
+					</a>
+				</ul>
+			</nav>
+		</div>
+
+	</div>
+
+	<!-- TEMPERATURE -->
+	<div data-role="page" id="temperature">
+
+		<div data-role="header" class="app-name">
+			<h1>TEMPERATURE</h1>
+		</div>
+
+		<div data-role="content">
+			<div class="conversion-container">
+				<div class="conversion-inner">
+					<input id="conversion-value" type="number" placeholder="QUANTITY">
+					<select id="unit-select">
+								<option value="celsius" selected>°C</option>
+								<option value="fahrenheit" >°F</option>
+						</select>
+				</div>
+				<ul class="results-container">
+					<li class="result-entry">
+						<output>...</output>
+						<div class="unit">CELSIUS</div>
+					</li>
+					<li class="result-entry">
+						<output>...</output>
+						<div class="unit">FAHRENHEIT</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+
+		<div data-role="footer">
+			<nav>
+				<ul>
+					<a href="#home">
+						<li class="luck">UNITS</li>
+					</a>
+					<a href="#about">
+						<li class="about">ABOUT</li>
+					</a>
+				</ul>
+			</nav>
+		</div>
+
+	</div>
+
+	<!-- TIME -->
+	<div data-role="page" id="time">
+
+		<div data-role="header" class="app-name">
+			<h1>TIME</h1>
+		</div>
+
+		<div data-role="content">
+			<div class="conversion-container">
+				<div class="conversion-inner">
+					<input id="conversion-value" type="number" placeholder="QUANTITY">
+					<select id="unit-select">
+								<option value="milliseconds" selected>MIL.</option>
+								<option value="seconds" >SEC.</option>
+								<option value="minutes">MIN.</option>
+								<option value="hours">HRS.</option>
+								<option value="days">DAY</option>
+						</select>
+				</div>
+				<ul class="results-container">
+					<li class="result-entry">
+						<output>...</output>
+						<div class="unit">MILLISECONDS</div>
+					</li>
+					<li class="result-entry">
+						<output>...</output>
+						<div class="unit">SECONDS</div>
+					</li>
+					<li class="result-entry">
+						<output>...</output>
+						<div class="unit">MINUTES</div>
+					</li>
+					<li class="result-entry">
+						<output>...</output>
+						<div class="unit">HOURS</div>
+					</li>
+					<li class="result-entry">
+						<output>...</output>
+						<div class="unit">DAYS</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+
+		<div data-role="footer">
+			<nav>
+				<ul>
+					<a href="#home">
+						<li class="luck">UNITS</li>
+					</a>
+					<a href="#about">
+						<li class="about">ABOUT</li>
+					</a>
+				</ul>
+			</nav>
+		</div>
+
+	</div>
+
+	<script src='main.js'></script>
+</body>
+
+</html>
