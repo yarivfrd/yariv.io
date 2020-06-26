@@ -10,8 +10,7 @@
   },
   "scripts": {
     "dev": "live-server",
-    "deploy": "gh-pages --dist ./",
-    "help": "gh-pages --help"
+    "deploy": "gh-pages --dist ./"
   },
   "repository": {
     "type": "git",
