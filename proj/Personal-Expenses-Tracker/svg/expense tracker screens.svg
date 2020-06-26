@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="793.70081"
+   height="1122.5197"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg4598"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="expense tracker screens.svg">
+  <defs
+     id="defs4592">
+    <inkscape:perspective
+       id="perspective10"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="476.3523"
+     inkscape:cy="606.25386"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="false"
+     units="px"
+     inkscape:object-paths="false"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata4595">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5143"
+       width="592.00354"
+       height="189.44165"
+       x="-17.991667"
+       y="36.914574"
+       ry="0" />
+    <rect
+       style="opacity:1;fill:#a02c2c;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4746"
+       width="83.771111"
+       height="18.498568"
+       x="34.84362"
+       y="145.7722" />
+    <rect
+       style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5145"
+       width="83.771111"
+       height="119.90063"
+       x="34.84362"
+       y="71.685089" />
+    <rect
+       y="71.685089"
+       x="34.84362"
+       height="17.001862"
+       width="83.771111"
+       id="rect4576"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.46722984px;line-height:1.25;font-family:'Galacti Condensed_FFC';-inkscape-font-specification:'Galacti Condensed_FFC';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="42.347233"
+       y="85.892395"
+       id="text4580"><tspan
+         sodipodi:role="line"
+         id="tspan4578"
+         x="42.347233"
+         y="85.892395"
+         style="fill:#ffffff;stroke-width:0.26458332">ניהול הוצאות</tspan></text>
+    <g
+       style="stroke-width:0.83136696"
+       transform="matrix(1.2028383,0,0,1.2028383,-17.223942,-23.084802)"
+       id="g4604">
+      <rect
+         y="97.376389"
+         x="47.671841"
+         height="17.212156"
+         width="17.212156"
+         id="rect4597"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.21996583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="97.376389"
+         x="69.503441"
+         height="17.212156"
+         width="17.212156"
+         id="rect4600"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.21996583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.21996583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4602"
+         width="17.212156"
+         height="17.212156"
+         x="91.335037"
+         y="97.376389" />
+    </g>
+    <g
+       style="stroke-width:0.83136696"
+       transform="matrix(1.2028383,0,0,1.2028383,-17.223942,1.6109017)"
+       id="g4612">
+      <rect
+         y="97.376389"
+         x="47.671841"
+         height="17.212156"
+         width="17.212156"
+         id="rect4606"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.21996583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="97.376389"
+         x="69.503441"
+         height="17.212156"
+         width="17.212156"
+         id="rect4608"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.21996583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.21996583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4610"
+         width="17.212156"
+         height="17.212156"
+         x="91.335037"
+         y="97.376389" />
+    </g>
+    <g
+       style="stroke-width:0.83136696"
+       transform="matrix(1.2028383,0,0,1.2028383,-17.223942,26.493694)"
+       id="g4620">
+      <rect
+         y="97.376389"
+         x="47.671841"
+         height="17.212156"
+         width="17.212156"
+         id="rect4614"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.21996583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="97.376389"
+         x="69.503441"
+         height="17.212156"
+         width="17.212156"
+         id="rect4616"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.21996583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.21996583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4618"
+         width="17.212156"
+         height="17.212156"
+         x="91.335037"
+         y="97.376389" />
+    </g>
+    <rect
+       y="169.25288"
+       x="40.117577"
+       height="19.019644"
+       width="35.296364"
+       id="rect4586"
+       style="opacity:1;fill:#ff5555;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#37c871;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4584"
+       width="33.799641"
+       height="19.019644"
+       x="79.541138"
+       y="169.25288" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.93547058px;line-height:1.25;font-family:'Galacti Condensed_FFC';-inkscape-font-specification:'Galacti Condensed_FFC';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="44.709846"
+       y="182.9617"
+       id="text4627"><tspan
+         sodipodi:role="line"
+         id="tspan4625"
+         x="44.709846"
+         y="182.9617"
+         style="fill:#ffffff;stroke-width:0.26458332">איפוס</tspan></text>
+    <text
+       id="text4631"
+       y="182.9617"
+       x="83.907684"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.93547058px;line-height:1.25;font-family:'Galacti Condensed_FFC';-inkscape-font-specification:'Galacti Condensed_FFC';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="fill:#ffffff;stroke-width:0.26458332"
+         y="182.9617"
+         x="83.907684"
+         id="tspan4629"
+         sodipodi:role="line">סיכום</tspan></text>
+    <rect
+       y="145.7722"
+       x="151.26028"
+       height="18.498568"
+       width="83.771111"
+       id="rect4633"
+       style="opacity:1;fill:#a02c2c;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.25999999;stroke:none;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4683"
+       width="83.771111"
+       height="119.90063"
+       x="151.26028"
+       y="71.685089" />
+    <rect
+       y="71.685089"
+       x="151.26028"
+       height="119.90063"
+       width="83.771111"
+       id="rect4635"
+       style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="145.7722"
+       x="267.20773"
+       height="18.498568"
+       width="83.771111"
+       id="rect4699"
+       style="opacity:1;fill:#a02c2c;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="71.685089"
+       x="267.20773"
+       height="119.90063"
+       width="83.771111"
+       id="rect4701"
+       style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4703"
+       width="83.771111"
+       height="17.001862"
+       x="267.20773"
+       y="71.685089" />
+    <text
+       id="text4707"
+       y="85.052132"
+       x="294.35196"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.46722984px;line-height:1.25;font-family:'Galacti Condensed_FFC';-inkscape-font-specification:'Galacti Condensed_FFC';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="fill:#ffffff;stroke-width:0.26458332"
+         y="85.052132"
+         x="294.35196"
+         id="tspan4705"
+         sodipodi:role="line">סיכום</tspan></text>
+    <circle
+       style="opacity:1;fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4745"
+       cx="309.09329"
+       cy="127.43417"
+       r="30.710743" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.30500001;stroke:none;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4625"
+       width="83.771111"
+       height="119.90063"
+       x="151.26028"
+       y="71.685089" />
+    <g
+       id="g4640"
+       transform="translate(0,-52.122934)">
+      <rect
+         style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:2.64583349;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4685"
+         width="59.659649"
+         height="48.424858"
+         x="163.31601"
+         y="140.4959" />
+      <g
+         transform="translate(0.52916527,66.958733)"
+         id="g4547">
+        <rect
+           y="102.34558"
+           x="166.52863"
+           height="12.922734"
+           width="52.176098"
+           id="rect4689"
+           style="opacity:1;fill:#37c871;fill-opacity:1;stroke:none;stroke-width:2.64583302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.2141819px;line-height:1.25;font-family:'Galacti Condensed_FFC';-inkscape-font-specification:'Galacti Condensed_FFC';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="182.20836"
+           y="112.02538"
+           id="text4693"><tspan
+             sodipodi:role="line"
+             id="tspan4691"
+             x="182.20836"
+             y="112.02538"
+             style="fill:#ffffff;stroke-width:0.26458332">אישור</tspan></text>
+      </g>
+      <g
+         id="g4572"
+         transform="translate(0.52918053,56.110813)">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.64583302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4687"
+           width="51.427746"
+           height="10.303493"
+           x="166.90279"
+           y="88.68811" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12531757px;line-height:1.25;font-family:'Galacti Condensed_FFC';-inkscape-font-specification:'Galacti Condensed_FFC';letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458329"
+           x="178.30321"
+           y="95.980881"
+           id="text4697"><tspan
+             sodipodi:role="line"
+             id="tspan4695"
+             x="178.30321"
+             y="95.980881"
+             style="fill:#b3b3b3;stroke-width:0.26458329">סכום הוצאה</tspan></text>
+      </g>
+      <g
+         id="g4567"
+         transform="translate(0.52918053,56.110813)">
+        <rect
+           y="100.72665"
+           x="166.90279"
+           height="10.303493"
+           width="51.427746"
+           id="rect4549"
+           style="opacity:1;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:2.64583302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text4553"
+           y="107.89043"
+           x="174.89001"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.12531757px;line-height:1.25;font-family:'Galacti Condensed_FFC';-inkscape-font-specification:'Galacti Condensed_FFC';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458329"
+           xml:space="preserve"><tspan
+             style="fill:#ffffff;stroke-width:0.26458329"
+             y="107.89043"
+             x="174.89001"
+             id="tspan4551"
+             sodipodi:role="line">הזן סכום אחרון</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="opacity:1;fill:#a02c2c;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4642"
+       width="83.771111"
+       height="18.498568"
+       x="383.02649"
+       y="145.7722" />
+    <rect
+       style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4644"
+       width="83.771111"
+       height="119.90063"
+       x="383.02649"
+       y="71.685089" />
+    <rect
+       y="71.685089"
+       x="383.02649"
+       height="17.001862"
+       width="83.771111"
+       id="rect4646"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.45078468px;line-height:1.25;font-family:'Galacti Condensed_FFC';-inkscape-font-specification:'Galacti Condensed_FFC';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="391.40103"
+       y="83.993797"
+       id="text4650"><tspan
+         sodipodi:role="line"
+         id="tspan4648"
+         x="391.40103"
+         y="83.993797"
+         style="fill:#ffffff;stroke-width:0.26458332">הוצאות אחרונות</tspan></text>
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4654"
+       width="83.771111"
+       height="17.001862"
+       x="383.02649"
+       y="88.618423" />
+    <rect
+       y="105.62029"
+       x="383.02649"
+       height="17.001862"
+       width="83.771111"
+       id="rect4656"
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="122.62215"
+       x="383.02649"
+       height="17.001862"
+       width="83.771111"
+       id="rect4658"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4660"
+       width="83.771111"
+       height="17.001862"
+       x="383.02649"
+       y="139.62401" />
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4662"
+       width="83.771111"
+       height="17.001862"
+       x="383.02649"
+       y="156.62587" />
+    <rect
+       y="173.62773"
+       x="383.02649"
+       height="17.927904"
+       width="83.771111"
+       id="rect4664"
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="6.1385398"
+       cy="97.205528"
+       cx="456.75156"
+       id="circle4666"
+       style="opacity:1;fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text4670"
+       y="98.842743"
+       x="385.86505"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79837704px;line-height:1.25;font-family:'Galacti Condensed_FFC';-inkscape-font-specification:'Galacti Condensed_FFC';letter-spacing:0px;word-spacing:0px;fill:#333000;fill-opacity:0;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="fill:#333333;fill-opacity:1;stroke-width:0.26458332"
+         y="98.842743"
+         x="385.86505"
+         id="tspan4668"
+         sodipodi:role="line">00/00/0000 | 00:00</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4672"
+       width="16.51181"
+       height="6.0108409"
+       x="431.496"
+       y="94.090324"
+       ry="1.6837981"
+       rx="1.6837981" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79837704px;line-height:1.25;font-family:'Galacti Condensed_FFC';-inkscape-font-specification:'Galacti Condensed_FFC';letter-spacing:0px;word-spacing:0px;fill:#333000;fill-opacity:0;stroke:none;stroke-width:0.26458332"
+       x="434.22568"
+       y="99.026482"
+       id="text4676"><tspan
+         sodipodi:role="line"
+         id="tspan4674"
+         x="434.22568"
+         y="99.026482"
+         style="fill:#333333;fill-opacity:1;stroke-width:0.26458332">0000</tspan></text>
+    <circle
+       style="opacity:1;fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle4678"
+       cx="456.75156"
+       cy="114.12122"
+       r="6.1385398" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79837704px;line-height:1.25;font-family:'Galacti Condensed_FFC';-inkscape-font-specification:'Galacti Condensed_FFC';letter-spacing:0px;word-spacing:0px;fill:#333000;fill-opacity:0;stroke:none;stroke-width:0.26458332"
+       x="385.86505"
+       y="115.84461"
+       id="text4682"><tspan
+         sodipodi:role="line"
+         id="tspan4680"
+         x="385.86505"
+         y="115.84461"
+         style="fill:#333333;fill-opacity:1;stroke-width:0.26458332">00/00/0000 | 00:00</tspan></text>
+    <rect
+       rx="1.6837981"
+       ry="1.6837981"
+       y="111.11581"
+       x="431.496"
+       height="6.0108409"
+       width="16.51181"
+       id="rect4684"
+       style="opacity:1;fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text4688"
+       y="116.05196"
+       x="434.22568"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79837704px;line-height:1.25;font-family:'Galacti Condensed_FFC';-inkscape-font-specification:'Galacti Condensed_FFC';letter-spacing:0px;word-spacing:0px;fill:#333000;fill-opacity:0;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="fill:#333333;fill-opacity:1;stroke-width:0.26458332"
+         y="116.05196"
+         x="434.22568"
+         id="tspan4686"
+         sodipodi:role="line">0000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.64541578px;line-height:1.25;font-family:'Galacti Condensed_FFC';-inkscape-font-specification:'Galacti Condensed_FFC';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="69.472923"
+       y="106.42759"
+       id="text4700"><tspan
+         sodipodi:role="line"
+         id="tspan4698"
+         x="69.472923"
+         y="106.42759"
+         style="fill:#ffffff;stroke-width:0.26458332">תחבורה</tspan></text>
+    <text
+       id="text4704"
+       y="104.90115"
+       x="94.874115"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25099659px;line-height:1.25;font-family:'Galacti Condensed_FFC';-inkscape-font-specification:'Galacti Condensed_FFC';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="fill:#ffffff;stroke-width:0.26458332"
+         y="104.90115"
+         x="94.874115"
+         id="tspan4702"
+         sodipodi:role="line">מזון ומצרכים</tspan></text>
+    <text
+       id="text4708"
+       y="106.16301"
+       x="46.321884"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.64541578px;line-height:1.25;font-family:'Galacti Condensed_FFC';-inkscape-font-specification:'Galacti Condensed_FFC';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="fill:#ffffff;stroke-width:0.26458332"
+         y="106.16301"
+         x="46.321884"
+         id="tspan4706"
+         sodipodi:role="line">דיור</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25099659px;line-height:1.25;font-family:'Galacti Condensed_FFC';-inkscape-font-specification:'Galacti Condensed_FFC';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="69.07724"
+       y="129.63971"
+       id="text4716"><tspan
+         sodipodi:role="line"
+         id="tspan4714"
+         x="69.07724"
+         y="129.63971"
+         style="fill:#ffffff;stroke-width:0.26458332">פנאי ובילויים</tspan></text>
+    <text
+       id="text4720"
+       y="129.63971"
+       x="46.323074"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25099659px;line-height:1.25;font-family:'Galacti Condensed_FFC';-inkscape-font-specification:'Galacti Condensed_FFC';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="fill:#ffffff;stroke-width:0.26458332"
+         y="129.63971"
+         x="46.323074"
+         id="tspan4718"
+         sodipodi:role="line">בריאות</tspan></text>
+    <text
+       id="text4724"
+       y="129.60332"
+       x="93.423965"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.13321686px;line-height:1.25;font-family:'Galacti Condensed_FFC';-inkscape-font-specification:'Galacti Condensed_FFC';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="fill:#ffffff;stroke-width:0.26458332"
+         y="129.60332"
+         x="93.423965"
+         id="tspan4722"
+         sodipodi:role="line">לימודים והעשרה</tspan></text>
+    <g
+       id="g4732"
+       transform="matrix(0.98763187,0,0,0.98763187,232.15448,72.332078)"
+       style="stroke-width:1.01252306">
+      <rect
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26789671;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4726"
+         width="17.212156"
+         height="17.212156"
+         x="47.671841"
+         y="97.376389" />
+      <rect
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26789671;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4728"
+         width="17.212156"
+         height="17.212156"
+         x="69.503441"
+         y="97.376389" />
+      <rect
+         y="97.376389"
+         x="91.335037"
+         height="17.212156"
+         width="17.212156"
+         id="rect4730"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26789671;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+{
+  "name": "yariv.io",
+  "version": "1.0.0",
+  "description": "My personal site containing my CV and portfolio.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gh-pages": "^3.1.0",
+    "live-server": "^1.2.1"
+  },
+  "scripts": {
+    "dev": "live-server",
+    "deploy": "gh-pages --dist ./",
+    "help": "gh-pages --help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yarivfrd/yariv.io.git"
+  },
+  "author": "Yariv Fruend",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yarivfrd/yariv.io/issues"
+  },
+  "homepage": "https://github.com/yarivfrd/yariv.io#readme"
+}

@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="793.70081"
+   height="1122.5197"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="design.svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5283"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect5281"
+       is_visible="true"
+       steps="1"
+       threshold="0.00888889"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false"
+       simplifyindividualpaths="false"
+       simplifyJustCoalesce="false" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5269"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect5267"
+       is_visible="true"
+       steps="1"
+       threshold="0.00888889"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false"
+       simplifyindividualpaths="false"
+       simplifyJustCoalesce="false" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5263"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect5261"
+       is_visible="true"
+       steps="1"
+       threshold="0.00888889"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false"
+       simplifyindividualpaths="false"
+       simplifyJustCoalesce="false" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5257"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect5255"
+       is_visible="true"
+       steps="1"
+       threshold="0.00888889"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false"
+       simplifyindividualpaths="false"
+       simplifyJustCoalesce="false" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5251"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect5249"
+       is_visible="true"
+       steps="1"
+       threshold="0.00888889"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false"
+       simplifyindividualpaths="false"
+       simplifyJustCoalesce="false" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5245"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect5243"
+       is_visible="true"
+       steps="1"
+       threshold="0.00888889"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false"
+       simplifyindividualpaths="false"
+       simplifyJustCoalesce="false" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4491"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect4489"
+       is_visible="true"
+       steps="1"
+       threshold="0.00888889"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false"
+       simplifyindividualpaths="false"
+       simplifyJustCoalesce="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="692.80171"
+     inkscape:cy="1797.2096"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:object-paths="true"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:object-nodes="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-midpoints="false">
+    <sodipodi:guide
+       position="5.0270832,336.52238"
+       orientation="1,0"
+       id="guide4968"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="144.99166,336.52238"
+       orientation="1,0"
+       id="guide4970"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="5.0270831,329.40626"
+       orientation="0,1"
+       id="guide4979"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="5.0270831,167.21667"
+       orientation="0,1"
+       id="guide4981"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="352.7804,520.43542"
+       orientation="0,1"
+       id="guide5335"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="352.78039,377.03126"
+       orientation="0,1"
+       id="guide5337"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="343.69374,377.03127"
+       orientation="1,0"
+       id="guide5339"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="186.26666,377.03127"
+       orientation="1,0"
+       id="guide5341"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4966"
+       transform="matrix(1.3827813,0,0,1.3845016,1.3672489,-18.924277)"
+       style="stroke-width:0.72273076">
+      <path
+         id="rect4485"
+         d="M -117.62199,-14.877631 H 110.47823 V 113.313 h -228.10022 z"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#373737;stroke-width:0.9561125;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path4487"
+         d="M -3.5718765,-14.877626 V 113.31299"
+         style="fill:none;stroke:#000000;stroke-width:0.9561125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g4516"
+       transform="matrix(0.61238413,0,0,0.61238413,-4.0288826,55.140248)"
+       style="stroke-width:1.63296199">
+      <path
+         id="path4508"
+         d="m -171.20692,24.85989 c -4.86576,-0.215408 -7.30655,-0.65923 -8.61602,-1.566689 -1.20369,-0.834161 -3.0137,-2.845002 -3.41224,-3.790858 -0.42913,-1.018456 -1.16026,-6.491623 -0.96898,-7.253725 0.13646,-0.543693 0.30823,-0.63632 1.40648,-0.758408 0.68807,-0.07649 11.41248,-0.261557 23.83204,-0.411262 33.07065,-0.398635 90.6075,-0.02006 92.15712,0.606365 0.59368,0.239995 0.74113,0.938457 0.69126,3.274476 -0.0949,4.444607 -1.74945,7.413842 -5.08835,9.131472 -1.22729,0.631361 -1.30264,0.639124 -7.89457,0.813399 -8.73471,0.230923 -86.73561,0.193011 -92.10674,-0.04477 z"
+         style="fill:#000000;stroke-width:1.63296199"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path4504"
+         d="m -154.68775,5.8440918 c -4.32649,-0.262337 -6.22454,-0.70621 -9.10284,-2.128761 -3.53197,-1.745616 -5.39963,-3.56004499 -6.95007,-6.751953 -2.24484,-4.62146 -2.96464,-8.8370878 -2.94473,-17.2462818 0.012,-5.070734 0.0814,-6.137964 0.53675,-8.256012 2.40359,-11.17995 10.59617,-20.84688 22.82823,-26.936433 1.55362,-0.773449 3.93423,-1.777248 5.29024,-2.230663 4.74606,-1.586962 14.23686,-3.120329 13.9479,-2.253473 -0.0609,0.182562 -1.11833,1.001404 -2.34996,1.819646 -4.32745,2.87499 -7.52514,6.954807 -9.22272,11.766966 -0.85923,2.435642 -0.86051,2.445281 -0.84587,6.361302 0.0134,3.57454 0.0725,4.111469 0.66697,6.061217 0.83598,2.741605 2.80984,6.892084 3.43743,7.227963 0.68532,0.366773 2.08299,0.321722 2.88495,-0.09299 1.28235,-0.663128 1.1901,-2.016578 -0.38513,-5.650304 -0.74647,-1.721946 -0.87271,-2.303307 -1.03917,-4.785535 -0.21986,-3.278626 0.0499,-7.909056 0.5439,-9.334785 0.56894,-1.642133 1.56299,-3.129071 3.34982,-5.010796 4.48578,-4.723998 8.53274,-6.631943 17.53341,-8.266166 5.42008,-0.984107 11.88575,-2.840657 15.38516,-4.417696 3.49056,-1.573045 7.68828,-5.504027 9.14339,-8.562391 1.08735,-2.285402 1.82214,-4.989826 2.06809,-7.611721 0.29715,-3.16781 0.7767,-4.358785 2.39285,-5.942726 0.78333,-0.767718 2.04572,-1.675387 2.94773,-2.119446 3.01962,-1.486555 6.32899,-0.92009 8.56019,1.465249 1.31955,1.410699 1.94562,2.804097 2.26929,5.050579 0.41303,2.86666 0.31349,2.702722 1.91352,3.151668 2.6994,0.757412 5.42695,2.988482 6.47187,5.293822 0.68012,1.500522 0.67959,4.405489 -0.001,6.122271 -0.91984,2.319868 -2.81992,4.005886 -5.06665,4.495847 -0.45757,0.09978 -2.48551,0.163655 -4.50655,0.141934 -5.349,-0.05748 -6.76092,0.443855 -9.37847,3.330047 -0.75221,0.8294 -1.95824,2.461113 -2.68007,3.626025 -1.70995,2.759577 -4.05868,7.5437 -4.24899,8.65479 -0.0824,0.480828 -0.60889,2.42519 -1.17007,4.320806 -0.56118,1.895616 -1.57429,5.947249 -2.25135,9.003631 -1.39797,6.310672 -2.17154,9.131346 -2.89717,10.563961 -1.61826,3.194925 -5.4665,6.476285 -9.14725,7.799779 -1.08884,0.391516 -2.15153,0.527247 -4.84565,0.618907 -4.26701,0.145172 -5.29319,-0.08617 -9.30684,-2.098153 l -2.91863,-1.463064 -0.79971,0.920107 c -0.43984,0.506057 -0.95745,1.222402 -1.15024,1.591878 -0.31225,0.598396 -0.30897,0.735213 0.03,1.252615 0.20932,0.319462 0.83132,0.913775 1.38222,1.320692 1.31491,0.971252 5.46873,2.963362 6.82515,3.27324 1.38892,0.3173008 10.02435,0.3170328 11.40171,-4.75e-4 2.6709,-0.615463 6.71389,-2.974189 9.39191,-5.479352 3.99859,-3.740482 5.38023,-6.63316 7.50538,-15.713752 2.28102,-9.746118 3.14381,-12.540793 3.87181,-12.540793 0.62597,0 3.24801,2.169404 4.70626,3.89383 1.79699,2.12501 3.06051,4.230874 4.13023,6.883719 3.5427,8.785751 3.30788,19.65221 -0.59664,27.6101568 -2.30605,4.70003901 -5.26022,7.683163 -10.00332,10.101336 l -2.79869,1.426861 -30.85889,-0.03486 c -16.97239,-0.01918 -32.24968,-0.119192 -33.94954,-0.222263 z"
+         style="fill:#000000;stroke-width:1.63296199"
+         inkscape:connector-curvature="0" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4695"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22px;font-family:Assistant;-inkscape-font-specification:Assistant;text-align:right;letter-spacing:0px;word-spacing:0px;direction:rtl;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.18836081"
+       transform="matrix(0.22264562,0,0,0.22264562,-44.259043,-30.647139)"><flowRegion
+         id="flowRegion4697"
+         style="text-align:end;text-anchor:end;stroke-width:1.62385476"><rect
+           id="rect4699"
+           width="628.64282"
+           height="223.80287"
+           x="221.3658"
+           y="127.20025"
+           style="text-align:end;text-anchor:end;stroke-width:1.18836081" /></flowRegion><flowPara
+         id="flowPara4711"
+         style="stroke-width:1.18836081">עוף שלם (עם העור)</flowPara><flowPara
+         id="flowPara4715"
+         style="stroke-width:1.18836081">3 תפוחי אדמה גדולים קלופים וחתוכים לרבעים</flowPara><flowPara
+         id="flowPara4719"
+         style="stroke-width:1.18836081">2 בטטות בינוניות קלופות וחתוכות לרבעים</flowPara><flowPara
+         id="flowPara4727"
+         style="stroke-width:1.18836081">3 גזרים בינוניים קלופים וחתוכים לרבעים</flowPara><flowPara
+         id="flowPara4731"
+         style="stroke-width:1.18836081">ראש שלם של שום (לא מקולף)</flowPara><flowPara
+         id="flowPara4739"
+         style="stroke-width:1.18836081">תיבול לעוף ולירקות: שליש כוס שמן, 2 כפות רוטב סויה, 2 כפות שטוחות דבש, 1 כף שטוחה קטשופ, 2 כפות גדושות פפריקה מתוקה, כפית מלאה אבקת מרק בטעם עוף, שן אחת של שום מגורדת, פלפל שחור לפי הטעם.</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.68049926,0,0,0.68049926,-161.97836,-120.6389)"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:22px;font-family:Assistant;-inkscape-font-specification:'Assistant Light';text-align:right;letter-spacing:0px;word-spacing:0px;direction:rtl;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38880768"
+       id="flowRoot4783"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Assistant;-inkscape-font-specification:'Assistant Light';text-align:end;text-anchor:end;stroke-width:0.5312925"
+         id="flowRegion4759"><rect
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Assistant;-inkscape-font-specification:'Assistant Light';text-align:end;text-anchor:end;stroke-width:0.38880768"
+           y="125.51965"
+           x="222"
+           height="32.286182"
+           width="230.3775"
+           id="rect4757" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Assistant;-inkscape-font-specification:'Assistant Light';stroke-width:0.38880768"
+         id="flowPara4781">עוף שלם בתנור עם ירקות</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4856"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.63449669px;font-family:Assistant;-inkscape-font-specification:'Assistant Bold';text-align:right;letter-spacing:0px;word-spacing:0px;direction:rtl;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69310403"
+       transform="matrix(0.38173683,0,0,0.38173683,-183.60649,-57.493197)"><flowRegion
+         id="flowRegion4852"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Assistant;-inkscape-font-specification:'Assistant Bold';text-align:end;text-anchor:end;stroke-width:0.94710314"><rect
+           id="rect4850"
+           width="639.55554"
+           height="396"
+           x="222"
+           y="125.51965"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Assistant;-inkscape-font-specification:'Assistant Bold';text-align:end;text-anchor:end;stroke-width:0.69310403" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Assistant;-inkscape-font-specification:'Assistant Bold';stroke-width:0.69310403"
+         id="flowPara4862">מצרכים:</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4880"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11166477px;font-family:Assistant;-inkscape-font-specification:Assistant;text-align:right;letter-spacing:0px;word-spacing:0px;direction:rtl;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.58798605"
+       transform="matrix(0.44998234,0,0,0.44998234,-45.695643,-5.5125843)"><flowRegion
+         id="flowRegion4876"
+         style="text-align:end;text-anchor:end;stroke-width:0.80346298"><rect
+           id="rect4874"
+           width="80.777428"
+           height="24.279703"
+           x="342.98874"
+           y="126.35119"
+           style="text-align:end;text-anchor:end;stroke-width:0.58798605" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Assistant;-inkscape-font-specification:'Assistant Bold';stroke-width:0.58798605"
+         id="flowPara4878">אופן הכנה: </flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.44998234,0,0,0.44998234,-7.1553777,45.618088)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11166477px;font-family:Assistant;-inkscape-font-specification:Assistant;text-align:right;letter-spacing:0px;word-spacing:0px;direction:rtl;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.58798605"
+       id="flowRoot4872"
+       xml:space="preserve"><flowRegion
+         style="text-align:end;text-anchor:end;stroke-width:0.80346298"
+         id="flowRegion4868"><rect
+           style="text-align:end;text-anchor:end;stroke-width:0.58798605"
+           y="124.27235"
+           x="281.03918"
+           height="23.032372"
+           width="57.078613"
+           id="rect4866" /></flowRegion><flowPara
+         id="flowPara4870"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Assistant;-inkscape-font-specification:'Assistant Bold';stroke-width:0.58798605">הערות:</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.1453146,0,0,0.1453146,-18.018326,41.544164)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.7075809px;font-family:Assistant;-inkscape-font-specification:Assistant;text-align:right;letter-spacing:0px;word-spacing:0px;direction:rtl;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.82076228"
+       id="flowRoot4908"
+       xml:space="preserve"><flowRegion
+         style="text-align:end;text-anchor:end;stroke-width:2.48800969"
+         id="flowRegion4894"><rect
+           style="text-align:end;text-anchor:end;stroke-width:1.82076228"
+           y="124.23218"
+           x="158.58977"
+           height="259.52783"
+           width="963.18317"
+           id="rect4892" /></flowRegion><flowPara
+         style="stroke-width:1.82076228"
+         id="flowPara4930">-מניחים את העוף השלם והירקות בתבנית גדולה.</flowPara><flowPara
+         style="stroke-width:1.82076228"
+         id="flowPara4934">-מערבבים את כל חומרי הרוטב בקערית ומתבלים היטב את העוף השלם (מורחים את הרוטב על העור וגם בחלקו הפנימי של העוף) ואת הירקות (כולל ראש השום). מכניסים את ראש השום לחלקו הפנימי של העוף.</flowPara><flowPara
+         style="stroke-width:1.82076228"
+         id="flowPara4936">-הופכים את העוף כך שהחלק של החזה כלפי מטה וצולים בתנור  ב180 מעלות במשך כשעתיים (בתוכנית הרגילה- למעלה ולמטה).</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4952"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.70758057px;font-family:Assistant;-inkscape-font-specification:Assistant;text-align:right;letter-spacing:0px;word-spacing:0px;direction:rtl;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.82076228"
+       transform="matrix(0.1453146,0,0,0.1453146,-1.7416117,92.747764)"><flowRegion
+         id="flowRegion4944"
+         style="text-align:end;text-anchor:end;stroke-width:2.48800969"><rect
+           id="rect4942"
+           width="963.18317"
+           height="139.7928"
+           x="46.579594"
+           y="110.06998"
+           style="text-align:end;text-anchor:end;stroke-width:1.82076228" /></flowRegion><flowPara
+         id="flowPara4950"
+         style="stroke-width:1.82076228">אם התנור שלכם חזק מומלץ לעטוף את התבנית ברדיד אלומיניום (נייר כסף) במשך שעה ראשונה ולאחר מכן להסיר את הנייר ולצלות את העוף שעה נוספת כשהוא חשוף.</flowPara></flowRoot>    <g
+       style="stroke-width:0.72273076"
+       transform="matrix(1.3827813,0,0,1.3845016,1.3672489,-18.924277)"
+       id="g4987">
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#373737;stroke-width:0.9561125;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M -117.62199,-14.877631 H 110.47823 V 113.313 h -228.10022 z"
+         id="path4983" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:0.9561125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -3.5718765,-14.877626 V 113.31299"
+         id="path4985" />
+    </g>
+    <g
+       style="stroke-width:1.63296199"
+       transform="matrix(0.61238413,0,0,0.61238413,-4.0288826,55.140248)"
+       id="g4993">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke-width:1.63296199"
+         d="m -171.20692,24.85989 c -4.86576,-0.215408 -7.30655,-0.65923 -8.61602,-1.566689 -1.20369,-0.834161 -3.0137,-2.845002 -3.41224,-3.790858 -0.42913,-1.018456 -1.16026,-6.491623 -0.96898,-7.253725 0.13646,-0.543693 0.30823,-0.63632 1.40648,-0.758408 0.68807,-0.07649 11.41248,-0.261557 23.83204,-0.411262 33.07065,-0.398635 90.6075,-0.02006 92.15712,0.606365 0.59368,0.239995 0.74113,0.938457 0.69126,3.274476 -0.0949,4.444607 -1.74945,7.413842 -5.08835,9.131472 -1.22729,0.631361 -1.30264,0.639124 -7.89457,0.813399 -8.73471,0.230923 -86.73561,0.193011 -92.10674,-0.04477 z"
+         id="path4989" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke-width:1.63296199"
+         d="m -154.68775,5.8440918 c -4.32649,-0.262337 -6.22454,-0.70621 -9.10284,-2.128761 -3.53197,-1.745616 -5.39963,-3.56004499 -6.95007,-6.751953 -2.24484,-4.62146 -2.96464,-8.8370878 -2.94473,-17.2462818 0.012,-5.070734 0.0814,-6.137964 0.53675,-8.256012 2.40359,-11.17995 10.59617,-20.84688 22.82823,-26.936433 1.55362,-0.773449 3.93423,-1.777248 5.29024,-2.230663 4.74606,-1.586962 14.23686,-3.120329 13.9479,-2.253473 -0.0609,0.182562 -1.11833,1.001404 -2.34996,1.819646 -4.32745,2.87499 -7.52514,6.954807 -9.22272,11.766966 -0.85923,2.435642 -0.86051,2.445281 -0.84587,6.361302 0.0134,3.57454 0.0725,4.111469 0.66697,6.061217 0.83598,2.741605 2.80984,6.892084 3.43743,7.227963 0.68532,0.366773 2.08299,0.321722 2.88495,-0.09299 1.28235,-0.663128 1.1901,-2.016578 -0.38513,-5.650304 -0.74647,-1.721946 -0.87271,-2.303307 -1.03917,-4.785535 -0.21986,-3.278626 0.0499,-7.909056 0.5439,-9.334785 0.56894,-1.642133 1.56299,-3.129071 3.34982,-5.010796 4.48578,-4.723998 8.53274,-6.631943 17.53341,-8.266166 5.42008,-0.984107 11.88575,-2.840657 15.38516,-4.417696 3.49056,-1.573045 7.68828,-5.504027 9.14339,-8.562391 1.08735,-2.285402 1.82214,-4.989826 2.06809,-7.611721 0.29715,-3.16781 0.7767,-4.358785 2.39285,-5.942726 0.78333,-0.767718 2.04572,-1.675387 2.94773,-2.119446 3.01962,-1.486555 6.32899,-0.92009 8.56019,1.465249 1.31955,1.410699 1.94562,2.804097 2.26929,5.050579 0.41303,2.86666 0.31349,2.702722 1.91352,3.151668 2.6994,0.757412 5.42695,2.988482 6.47187,5.293822 0.68012,1.500522 0.67959,4.405489 -0.001,6.122271 -0.91984,2.319868 -2.81992,4.005886 -5.06665,4.495847 -0.45757,0.09978 -2.48551,0.163655 -4.50655,0.141934 -5.349,-0.05748 -6.76092,0.443855 -9.37847,3.330047 -0.75221,0.8294 -1.95824,2.461113 -2.68007,3.626025 -1.70995,2.759577 -4.05868,7.5437 -4.24899,8.65479 -0.0824,0.480828 -0.60889,2.42519 -1.17007,4.320806 -0.56118,1.895616 -1.57429,5.947249 -2.25135,9.003631 -1.39797,6.310672 -2.17154,9.131346 -2.89717,10.563961 -1.61826,3.194925 -5.4665,6.476285 -9.14725,7.799779 -1.08884,0.391516 -2.15153,0.527247 -4.84565,0.618907 -4.26701,0.145172 -5.29319,-0.08617 -9.30684,-2.098153 l -2.91863,-1.463064 -0.79971,0.920107 c -0.43984,0.506057 -0.95745,1.222402 -1.15024,1.591878 -0.31225,0.598396 -0.30897,0.735213 0.03,1.252615 0.20932,0.319462 0.83132,0.913775 1.38222,1.320692 1.31491,0.971252 5.46873,2.963362 6.82515,3.27324 1.38892,0.3173008 10.02435,0.3170328 11.40171,-4.75e-4 2.6709,-0.615463 6.71389,-2.974189 9.39191,-5.479352 3.99859,-3.740482 5.38023,-6.63316 7.50538,-15.713752 2.28102,-9.746118 3.14381,-12.540793 3.87181,-12.540793 0.62597,0 3.24801,2.169404 4.70626,3.89383 1.79699,2.12501 3.06051,4.230874 4.13023,6.883719 3.5427,8.785751 3.30788,19.65221 -0.59664,27.6101568 -2.30605,4.70003901 -5.26022,7.683163 -10.00332,10.101336 l -2.79869,1.426861 -30.85889,-0.03486 c -16.97239,-0.01918 -32.24968,-0.119192 -33.94954,-0.222263 z"
+         id="path4991" />
+    </g>
+    <flowRoot
+       transform="matrix(0.22264562,0,0,0.22264562,-44.259043,-30.647139)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22px;font-family:Assistant;-inkscape-font-specification:Assistant;text-align:right;letter-spacing:0px;word-spacing:0px;direction:rtl;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.18836081"
+       id="flowRoot5011"
+       xml:space="preserve"><flowRegion
+         style="text-align:end;text-anchor:end;stroke-width:1.62385476"
+         id="flowRegion4997"><rect
+           style="text-align:end;text-anchor:end;stroke-width:1.18836081"
+           y="127.20025"
+           x="221.3658"
+           height="223.80287"
+           width="628.64282"
+           id="rect4995" /></flowRegion><flowPara
+         style="stroke-width:1.18836081"
+         id="flowPara4999">עוף שלם (עם העור)</flowPara><flowPara
+         style="stroke-width:1.18836081"
+         id="flowPara5001">3 תפוחי אדמה גדולים קלופים וחתוכים לרבעים</flowPara><flowPara
+         style="stroke-width:1.18836081"
+         id="flowPara5003">2 בטטות בינוניות קלופות וחתוכות לרבעים</flowPara><flowPara
+         style="stroke-width:1.18836081"
+         id="flowPara5005">3 גזרים בינוניים קלופים וחתוכים לרבעים</flowPara><flowPara
+         style="stroke-width:1.18836081"
+         id="flowPara5007">ראש שלם של שום (לא מקולף)</flowPara><flowPara
+         style="stroke-width:1.18836081"
+         id="flowPara5009">תיבול לעוף ולירקות: שליש כוס שמן, 2 כפות רוטב סויה, 2 כפות שטוחות דבש, 1 כף שטוחה קטשופ, 2 כפות גדושות פפריקה מתוקה, כפית מלאה אבקת מרק בטעם עוף, שן אחת של שום מגורדת, פלפל שחור לפי הטעם.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5019"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:22px;font-family:Assistant;-inkscape-font-specification:'Assistant Light';text-align:right;letter-spacing:0px;word-spacing:0px;direction:rtl;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38880768"
+       transform="matrix(0.68049926,0,0,0.68049926,-161.97836,-120.6389)"><flowRegion
+         id="flowRegion5015"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Assistant;-inkscape-font-specification:'Assistant Light';text-align:end;text-anchor:end;stroke-width:0.5312925"><rect
+           id="rect5013"
+           width="230.3775"
+           height="32.286182"
+           x="222"
+           y="125.51965"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Assistant;-inkscape-font-specification:'Assistant Light';text-align:end;text-anchor:end;stroke-width:0.38880768" /></flowRegion><flowPara
+         id="flowPara5017"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Assistant;-inkscape-font-specification:'Assistant Light';stroke-width:0.38880768">עוף שלם בתנור עם ירקות</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.38173683,0,0,0.38173683,-183.60649,-57.493197)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.63449669px;font-family:Assistant;-inkscape-font-specification:'Assistant Bold';text-align:right;letter-spacing:0px;word-spacing:0px;direction:rtl;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69310403"
+       id="flowRoot5027"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Assistant;-inkscape-font-specification:'Assistant Bold';text-align:end;text-anchor:end;stroke-width:0.94710314"
+         id="flowRegion5023"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Assistant;-inkscape-font-specification:'Assistant Bold';text-align:end;text-anchor:end;stroke-width:0.69310403"
+           y="125.51965"
+           x="222"
+           height="396"
+           width="639.55554"
+           id="rect5021" /></flowRegion><flowPara
+         id="flowPara5025"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Assistant;-inkscape-font-specification:'Assistant Bold';stroke-width:0.69310403">מצרכים:</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.44998234,0,0,0.44998234,-45.695643,-5.5125843)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11166477px;font-family:Assistant;-inkscape-font-specification:Assistant;text-align:right;letter-spacing:0px;word-spacing:0px;direction:rtl;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.58798605"
+       id="flowRoot5035"
+       xml:space="preserve"><flowRegion
+         style="text-align:end;text-anchor:end;stroke-width:0.80346298"
+         id="flowRegion5031"><rect
+           style="text-align:end;text-anchor:end;stroke-width:0.58798605"
+           y="126.35119"
+           x="342.98874"
+           height="24.279703"
+           width="80.777428"
+           id="rect5029" /></flowRegion><flowPara
+         id="flowPara5033"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Assistant;-inkscape-font-specification:'Assistant Bold';stroke-width:0.58798605">אופן הכנה: </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5043"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11166477px;font-family:Assistant;-inkscape-font-specification:Assistant;text-align:right;letter-spacing:0px;word-spacing:0px;direction:rtl;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.58798605"
+       transform="matrix(0.44998234,0,0,0.44998234,-7.1553777,45.618088)"><flowRegion
+         id="flowRegion5039"
+         style="text-align:end;text-anchor:end;stroke-width:0.80346298"><rect
+           id="rect5037"
+           width="57.078613"
+           height="23.032372"
+           x="281.03918"
+           y="124.27235"
+           style="text-align:end;text-anchor:end;stroke-width:0.58798605" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Assistant;-inkscape-font-specification:'Assistant Bold';stroke-width:0.58798605"
+         id="flowPara5041">הערות:</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5055"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.7075809px;font-family:Assistant;-inkscape-font-specification:Assistant;text-align:right;letter-spacing:0px;word-spacing:0px;direction:rtl;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.82076228"
+       transform="matrix(0.1453146,0,0,0.1453146,-18.018326,41.544164)"><flowRegion
+         id="flowRegion5047"
+         style="text-align:end;text-anchor:end;stroke-width:2.48800969"><rect
+           id="rect5045"
+           width="963.18317"
+           height="259.52783"
+           x="158.58977"
+           y="124.23218"
+           style="text-align:end;text-anchor:end;stroke-width:1.82076228" /></flowRegion><flowPara
+         id="flowPara5049"
+         style="stroke-width:1.82076228">-מניחים את העוף השלם והירקות בתבנית גדולה.</flowPara><flowPara
+         id="flowPara5051"
+         style="stroke-width:1.82076228">-מערבבים את כל חומרי הרוטב בקערית ומתבלים היטב את העוף השלם (מורחים את הרוטב על העור וגם בחלקו הפנימי של העוף) ואת הירקות (כולל ראש השום). מכניסים את ראש השום לחלקו הפנימי של העוף.</flowPara><flowPara
+         id="flowPara5053"
+         style="stroke-width:1.82076228">-הופכים את העוף כך שהחלק של החזה כלפי מטה וצולים בתנור  ב180 מעלות במשך כשעתיים (בתוכנית הרגילה- למעלה ולמטה).</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.1453146,0,0,0.1453146,-1.7416117,92.747764)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.70758057px;font-family:Assistant;-inkscape-font-specification:Assistant;text-align:right;letter-spacing:0px;word-spacing:0px;direction:rtl;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.82076228"
+       id="flowRoot5063"
+       xml:space="preserve"><flowRegion
+         style="text-align:end;text-anchor:end;stroke-width:2.48800969"
+         id="flowRegion5059"><rect
+           style="text-align:end;text-anchor:end;stroke-width:1.82076228"
+           y="110.06998"
+           x="46.579594"
+           height="139.7928"
+           width="963.18317"
+           id="rect5057" /></flowRegion><flowPara
+         style="stroke-width:1.82076228"
+         id="flowPara5061">אם התנור שלכם חזק מומלץ לעטוף את התבנית ברדיד אלומיניום (נייר כסף) במשך שעה ראשונה ולאחר מכן להסיר את הנייר ולצלות את העוף שעה נוספת כשהוא חשוף.</flowPara></flowRoot>    <g
+       style="stroke-width:0.72273076"
+       transform="matrix(1.3827813,0,0,1.3845016,1.3672489,-219.76321)"
+       id="g5075">
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#373737;stroke-width:0.9561125;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M -117.62199,-14.877631 H 110.47823 V 113.313 h -228.10022 z"
+         id="path5071" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:0.9561125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -3.5718765,-14.877626 V 113.31299"
+         id="path5073" />
+    </g>
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32291651;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5273"
+       width="52.122913"
+       height="52.122913"
+       x="-2.911068"
+       y="-239.69945" />
+    <rect
+       y="-239.6996"
+       x="49.210312"
+       height="52.122913"
+       width="52.122913"
+       id="rect5285"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32291651;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32291651;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5287"
+       width="52.122913"
+       height="52.122913"
+       x="101.33117"
+       y="-239.69376" />
+    <rect
+       y="-187.57654"
+       x="-2.911068"
+       height="52.122913"
+       width="52.122913"
+       id="rect5289"
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32291651;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32291651;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5291"
+       width="52.122913"
+       height="52.122913"
+       x="49.210312"
+       y="-187.57669" />
+    <rect
+       y="-187.57085"
+       x="101.33117"
+       height="52.122913"
+       width="52.122913"
+       id="rect5293"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32291651;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32291651;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5295"
+       width="52.122913"
+       height="52.122913"
+       x="-2.911068"
+       y="-135.45346" />
+    <rect
+       y="-135.45361"
+       x="49.210312"
+       height="52.122913"
+       width="52.122913"
+       id="rect5297"
+       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32291651;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32291651;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5299"
+       width="52.122913"
+       height="52.122913"
+       x="101.33117"
+       y="-135.44777" />
+    <rect
+       y="-83.330643"
+       x="-2.911068"
+       height="19.788267"
+       width="52.122913"
+       id="rect5301"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32291651;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32291651;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5303"
+       width="52.122913"
+       height="19.788267"
+       x="49.210312"
+       y="-83.330681" />
+    <rect
+       y="-83.328468"
+       x="101.33117"
+       height="19.788267"
+       width="52.122913"
+       id="rect5305"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32291651;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g5321"
+       transform="matrix(0.95080833,0,0,0.95080833,-4.1466316,-7.0324412)"
+       style="stroke-width:1.05173671">
+      <g
+         id="g5327"
+         transform="translate(0,-14.191872)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:14.03551292px;line-height:1;font-family:Assistant;-inkscape-font-specification:'Assistant Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.27827197"
+           x="-84.087029"
+           y="-154.1678"
+           id="text5309"><tspan
+             sodipodi:role="line"
+             id="tspan5307"
+             x="-84.087029"
+             y="-154.1678"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Assistant;-inkscape-font-specification:'Assistant Ultra-Bold';text-align:center;text-anchor:middle;stroke-width:0.27827197">Kitchen</tspan><tspan
+             sodipodi:role="line"
+             x="-84.087029"
+             y="-140.13229"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Assistant;-inkscape-font-specification:'Assistant Ultra-Bold';text-align:center;text-anchor:middle;stroke-width:0.27827197"
+             id="tspan5311">Helper</tspan></text>
+        <circle
+           style="opacity:1;fill:none;fill-opacity:0.05490196;fill-rule:evenodd;stroke:#000000;stroke-width:4.7306242;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path5315"
+           cx="-84.295403"
+           cy="-152.06935"
+           r="32.271725" />
+      </g>
+    </g>
+    <rect
+       y="-240.70987"
+       x="176.4306"
+       height="176.34979"
+       width="176.34979"
+       id="rect5329"
+       style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32291651;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.56308365px;line-height:1.25;font-family:Assistant;-inkscape-font-specification:Assistant;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="344.7485"
+       y="-124.41294"
+       id="text5333"><tspan
+         sodipodi:role="line"
+         x="344.7485"
+         y="-102.16908"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan5343" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5347"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;line-height:1;font-family:Assistant;-inkscape-font-specification:Assistant;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.17002213"
+       transform="matrix(0.22613534,0,0,0.22613534,-3.3138028,0.31880691)"><flowRegion
+         id="flowRegion5349"
+         style="text-align:end;text-anchor:end;stroke-width:1.17002213"><rect
+           id="rect5351"
+           width="594.99994"
+           height="308.82587"
+           x="862.39191"
+           y="-594.33557"
+           style="text-align:end;text-anchor:end;stroke-width:1.17002213" /></flowRegion><flowPara
+         id="flowPara5353"
+         style="stroke-width:1.17002213">עוף שלם בתנור עם ירקות</flowPara><flowPara
+         id="flowPara5355"
+         style="stroke-width:1.17002213" /></flowRoot>    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.32291651;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5357"
+       width="139.68042"
+       height="139.68042"
+       x="194.7653"
+       y="-222.37517" />
+  </g>
+</svg>

@@ -1,0 +1,205 @@
+body {
+  direction: rtl;
+  text-align: center;
+  color: #333;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 19px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.question-card {
+  background-color: white;
+  box-shadow: 0 0 15px #ddd;
+  padding: 20px;
+  max-width: 500px;
+  margin: 30px auto 0;
+  border-radius: 3px;
+  position: relative;
+  z-index: 1;
+}
+
+.inner-container {
+  border: solid 2px #ddd;
+  padding: 25px 25px 65px;
+  position: relative;
+  border-radius: 3px;
+}
+
+.question {
+  margin: 0 0 15px 0;
+  min-height: 183px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 35px;
+}
+
+.question {
+  font-family: 'Suez One', serif;
+  font-weight: normal;
+}
+
+.current-question {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  color: #999;
+}
+
+.answers-form {
+  margin: 0 auto 25px;
+  text-align: right;
+  max-width: 33s0px;
+}
+
+.answers-form input {
+  display: none;
+}
+
+.answers-form label {
+  cursor: pointer;
+  margin-bottom: 8px;
+  display: inline-block;
+  position: relative;
+  padding-bottom: 5px;
+}
+
+.answers-form label[for='Answer1']:before {
+  content: 'א. ';
+}
+
+.answers-form label[for='Answer2']:before {
+  content: 'ב. ';
+}
+
+.answers-form label[for='Answer3']:before {
+  content: 'ג. ';
+}
+
+.answers-form input+label:after {
+  animation: underline 300ms ease 1 forwards;
+}
+
+.answers-form input:checked+label:after {
+  content: '';
+  height: 3px;
+  background-color: red;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  border-radius: 15px;
+  border: solid 1px red;
+  opacity: 0.7;
+  animation: underline 300ms ease 1 forwards;
+}
+
+@keyframes underline {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 100%;
+  }
+}
+
+.nav button[type='button'] {
+  border: 0;
+  cursor: pointer;
+  font-size: 19px;
+  min-width: 98px;
+  color: RoyalBlue;
+  border: solid 1.5px RoyalBlue;
+  background-color: white;
+  outline: 0;
+  font-family: 'Varela Round', sans-serif;
+  transition: all 100ms ease;
+  border-radius: 3px;
+}
+
+.nav button[type='button']:hover {
+  background-color: whitesmoke;
+}
+
+.nav button[type='button'].next-question:active {
+  transform: translate(-2px, 0);
+}
+
+.nav button[type='button'].previous-question:active {
+  transform: translate(2px, 0);
+}
+
+.nav button[type='button'].calculate-mark:active {
+  transform: translate(0, 2px);
+}
+
+.nav button[type='button'].calculate-mark {
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+  border: solid 1.5px ForestGreen;
+  color: ForestGreen;
+}
+
+.nav button[type='button'].next-question:after {
+  content: '\f100';
+  font-family: FontAwesome;
+  font-size: 18px;
+  margin-right: 5px;
+}
+
+.nav button[type='button'].previous-question:before {
+  content: '\f101';
+  font-family: FontAwesome;
+  font-size: 18px;
+  margin-left: 5px;
+}
+
+.nav button[type='button'].calculate-mark:after {
+  content: '\f14a';
+  font-family: FontAwesome;
+  font-size: 18px;
+  margin-right: 5px;
+}
+
+.results-card {
+  background-color: whitesmoke;
+  max-width: 300px;
+  margin: 0 auto;
+  padding: 10px 15px;
+  z-index: -5;
+  transform: translate(0, -43px);
+  transition: all 300ms ease;
+}
+
+.show-results {
+  transform: translate(0);
+}
+
+/* Responsive Adjustments */
+
+@media screen and (max-width: 480px) {
+  
+  .question-card {
+    max-width: 100%;
+    margin: 0;
+    border-radius: 0;
+    box-shadow: none;    
+    padding-bottom: 0;
+}
+
+.question {
+  font-size: 27px;
+  min-height: 207px;
+}
+
+.ui-overlay-a, .ui-page-theme-a, .ui-page-theme-a .ui-panel-wrapper {
+  background-color: white;
+}
+
+.results-card {
+	max-width: 242px;
+	font-size: 17px;
+}
