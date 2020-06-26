@@ -39,6 +39,3 @@ yariv.onDomContentLoaded = function() {
 }
 
 document.addEventListener("DOMContentLoaded", yariv.onDomContentLoaded);
-
-
-// This is a comment.
