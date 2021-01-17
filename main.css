@@ -310,12 +310,8 @@ header #more-projects > a:hover {
 .my-pic {
     border: solid 5px white;
     box-shadow: 0 0 10px #333;
-    -webkit-border-radius: 15px;
-    -webkit-border-bottom-right-radius: 0;
-    -moz-border-radius: 15px;
-    -moz-border-radius-bottomright: 0;
     border-radius: 15px;
-    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
     max-height: 219px;
     max-width: 219px;
     margin-bottom: 12px;
